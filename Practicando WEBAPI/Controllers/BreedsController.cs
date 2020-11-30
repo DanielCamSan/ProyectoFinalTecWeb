@@ -8,9 +8,11 @@ using System.Reflection.Metadata.Ecma335;
 using System.Threading.Tasks;
 using Practicando_WEBAPI.Exceptions;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 
 namespace Practicando_WEBAPI.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     public class BreedsController : ControllerBase
     {

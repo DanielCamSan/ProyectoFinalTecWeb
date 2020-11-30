@@ -93,3 +93,74 @@ C:\Users\59177\Desktop\6 Semestre\TecnoWeb\BACKEND\EntregaFinal\Practicando WEBA
 C:\Users\59177\Desktop\6 Semestre\TecnoWeb\BACKEND\EntregaFinal\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\59177\Desktop\6 Semestre\TecnoWeb\BACKEND\EntregaFinal\Practicando WEBAPI\obj\Debug\netcoreapp3.1\Practicando WEBAPI.csproj.CoreCompileInputs.cache
 C:\Users\59177\Desktop\6 Semestre\TecnoWeb\BACKEND\EntregaFinal\Practicando WEBAPI\obj\Debug\netcoreapp3.1\Practicando WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Practicando WEBAPI.exe
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Practicando WEBAPI.deps.json
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Practicando WEBAPI.runtimeconfig.json
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Practicando WEBAPI.runtimeconfig.dev.json
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Practicando WEBAPI.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Practicando WEBAPI.pdb
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\obj\Debug\netcoreapp3.1\Practicando WEBAPI.csprojAssemblyReference.cache
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\obj\Debug\netcoreapp3.1\Practicando WEBAPI.AssemblyInfoInputs.cache
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\obj\Debug\netcoreapp3.1\Practicando WEBAPI.AssemblyInfo.cs
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\obj\Debug\netcoreapp3.1\Practicando WEBAPI.csproj.CoreCompileInputs.cache
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\obj\Debug\netcoreapp3.1\Practicando WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\obj\Debug\netcoreapp3.1\Practicando WEBAPI.RazorTargetAssemblyInfo.cache
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\obj\Debug\netcoreapp3.1\Practicando WEBAPI.csproj.CopyComplete
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\obj\Debug\netcoreapp3.1\staticwebassets\Practicando WEBAPI.StaticWebAssets.Manifest.cache
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\obj\Debug\netcoreapp3.1\staticwebassets\Practicando WEBAPI.StaticWebAssets.xml
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\obj\Debug\netcoreapp3.1\Practicando WEBAPI.dll
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\obj\Debug\netcoreapp3.1\Practicando WEBAPI.pdb
+D:\Juslan\UNIVERSIDAD\Sexto Semestre\Tec Web\Proyecto Final\ProyectoFinalTecWeb\Practicando WEBAPI\obj\Debug\netcoreapp3.1\Practicando WEBAPI.genruntimeconfig.cache

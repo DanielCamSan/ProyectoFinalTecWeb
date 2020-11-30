@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\59177\\Desktop\\6 Semestre\\TecnoWeb\\BACKEND\\EntregaFinal\\Practicando WEBAPI\\Practicando WEBAPI.csproj": {}
+    "D:\\Juslan\\UNIVERSIDAD\\Sexto Semestre\\Tec Web\\Proyecto Final\\ProyectoFinalTecWeb\\Practicando WEBAPI\\Practicando WEBAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\59177\\Desktop\\6 Semestre\\TecnoWeb\\BACKEND\\EntregaFinal\\Practicando WEBAPI\\Practicando WEBAPI.csproj": {
+    "D:\\Juslan\\UNIVERSIDAD\\Sexto Semestre\\Tec Web\\Proyecto Final\\ProyectoFinalTecWeb\\Practicando WEBAPI\\Practicando WEBAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\59177\\Desktop\\6 Semestre\\TecnoWeb\\BACKEND\\EntregaFinal\\Practicando WEBAPI\\Practicando WEBAPI.csproj",
+        "projectUniqueName": "D:\\Juslan\\UNIVERSIDAD\\Sexto Semestre\\Tec Web\\Proyecto Final\\ProyectoFinalTecWeb\\Practicando WEBAPI\\Practicando WEBAPI.csproj",
         "projectName": "Practicando WEBAPI",
-        "projectPath": "C:\\Users\\59177\\Desktop\\6 Semestre\\TecnoWeb\\BACKEND\\EntregaFinal\\Practicando WEBAPI\\Practicando WEBAPI.csproj",
-        "packagesPath": "C:\\Users\\59177\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\59177\\Desktop\\6 Semestre\\TecnoWeb\\BACKEND\\EntregaFinal\\Practicando WEBAPI\\obj\\",
+        "projectPath": "D:\\Juslan\\UNIVERSIDAD\\Sexto Semestre\\Tec Web\\Proyecto Final\\ProyectoFinalTecWeb\\Practicando WEBAPI\\Practicando WEBAPI.csproj",
+        "packagesPath": "C:\\Users\\Camaras\\.nuget\\packages\\",
+        "outputPath": "D:\\Juslan\\UNIVERSIDAD\\Sexto Semestre\\Tec Web\\Proyecto Final\\ProyectoFinalTecWeb\\Practicando WEBAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\59177\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Camaras\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
