@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BusinessLogic</title>
+    <link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="./js/script.js"></script>
+</head>
+
+<body class="breeds">
+    <header>
+        <nav id="header" class="navbar">
+            <div class="container-header">
+                <a href="Main.html">
+                    <img src="./images/WarcraftLogo.png" alt="WarcraftLogo" style="width: 200px; height: 130px;">
+                    <span>WARCRAFT</span>
+                </a>
+            </div>
+            <div>
+                <ul>
+                    <li class="item">
+                        <a class="nav-link" href="BusinessLogic.html">
+                            BL
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a class="nav-link" href="main.html">
+                            Breeds
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a class="nav-link" href="CreateBreed.html">
+                            Create
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <section class="mainContent">
+        <div class="container-main-content">
+            <div class="mainTitle">
+                <span>Business Logic</span>
+            </div>
+            <div class="Instructions">
+                <span>
+                    Put a rating percentage and all breeds down that number will be deleted:
+                </span>
+            </div>
+            <form id="fetch-BL-form" class="row">
+                <div class="col-md-3">
+                    <label for="rating">RATING</label>
+                </div>
+                <div class="col-md-4">
+                    <input type="number" name="rating" id="form-rating">
+                </div>
+                <div class="col-md-3" style="text-align:left; margin-bottom: 20px;">
+                    <input type="submit" class="btn btn-danger" value="Delete">
+                </div>
+            </form>
+    </section>
+
+    <footer>
+        <nav class="navbar-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <p>"Este contenido esta protegido por sus respectivos autores, cualquier infraccion sera sancionada."
+                        </p>
+                        <span>Author: Daniel Camacho </span>
+                        <a href="mailto:daniel.camacho.s@ucb.edu.bo">daniel.camacho.s@ucb.edu.bo</a></p>
+                        <div>&copy; 2020 Warcraft. TODOS LOS DERECHOS RESERVADOS.</div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </footer>
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>

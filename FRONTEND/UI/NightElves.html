@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NightElves</title>
+    <link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="./js/script.js"></script>
+</head>
+
+<body class="nightelvesBackground">
+    <header>
+        <nav id="header" class="navbar">
+            <div class="container-header">
+                <a href="Main.html">
+                    <img src="./images/WarcraftLogo.png" alt="WarcraftLogo" style="width: 200px; height: 130px;">
+                    <span>WARCRAFT</span>
+                </a>
+            </div>
+            <div>
+                <ul>
+                    <li class="item">
+                        <a class="nav-link" href="BusinessLogic.html">
+                            BL
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a class="nav-link" href="main.html">
+                            Breeds
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a class="nav-link" href="CreateBreed.html">
+                            Create
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <div id="main-content" class="container" style="background-color: rgb(5, 3, 3,0.8);">
+        <h2 class="text-center Character-title">NightElves</h2>
+        <br>
+        <section class="row">
+            <div class="col-md-6">
+                <div class="text-tile">
+                    <h2 class="text-left Character-title">NightElves</h2>
+                    <p>Introducción: Los elfos de la noche son una raza antigua y misteriosa. Vivieron en Kalimdor durante miles de años sin que nadie los molestara hasta que, en eventos anteriores a los de World of Warcraft, sacrificaron el árbol del mundo
+                        para detener a la Legión Ardiente.
+                    </p>
+                    <p>
+                        Ciudad capital: La capital de los elfos de la noche es Darnassus, ubicada en las raíces del mismísimo árbol del mundo.
+                    </p>
+                    <p>
+                        Zona de inicio: Las misiones de los elfos de la noche comienzan en Teldrassil, donde se interiorizan acerca de los cambios políticos ocurridos recientemente en Darnassus.
+                    </p>
+                    <input id="fetch-Single-Btn" type="button" value="FetchData">
+                    <section class="row" id="Singlebreed-list-content">
+
+                    </section>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <img width="500px" height="700px" style="margin-bottom: 20px;" src="images/NightElvesPage.jpg" alt="NightElves">
+            </div>
+
+            <div class="col-md-12 text-center">
+                <div style="overflow:hidden;position: relative;"><iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="800" height="443" type="text/html" src="https://www.youtube.com/embed/3AZ9RwbDw9s?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0"></iframe>
+                    <div style="position: absolute;bottom: 10px;left: 0;right: 0;margin-left: auto;margin-right: auto;color: #000;text-align: center;"><small style="line-height: 1.8;font-size: 0px;background: #fff;"> <a href="https://logines.co.uk/" rel="nofollow">Login</a> </small></div>
+                    <style>
+                        .newst {
+                            position: relative;
+                            text-align: right;
+                            height: 420px;
+                            width: 520px;
+                        }
+                        
+                        #gmap_canvas img {
+                            max-width: none!important;
+                            background: none!important
+                        }
+                    </style>
+                </div><br />
+            </div>
+
+            <div class="deleteButton col-md-6" id="fetch-delete-Btn" style="text-align:right; margin-bottom: 20px;">
+                <button type="button" class="btn btn-danger" onclick="javascript:location.href='./main.html'">DELETE</button>
+            </div>
+            <div class="updateButton col-md-6" style="margin-bottom: 20px">
+                <button id="fetch-CreateForm-Btn" type="button" class="btn btn-secondary">EDIT</button>
+            </div>
+            <div id="breed-listready-content">
+
+            </div>
+        </section>
+    </div>
+
+    <footer>
+        <nav class="navbar-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <p>"Todas las marcas comerciales a las que se hace referencia son propiedad de sus respectivos dueños."
+                        </p>
+                        <span>Author: Daniel Camacho </span>
+                        <a href="mailto:daniel.camacho.s@ucb.edu.bo">daniel.camacho.s@ucb.edu.bo</a></p>
+                        <div>&copy; 2020 NightElvesWEBDANIEL. TODOS LOS DERECHOS RESERVADOS.</div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </footer>
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>
+
+</html>

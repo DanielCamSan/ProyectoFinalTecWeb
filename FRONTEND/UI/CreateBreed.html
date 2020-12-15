@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link href='https://fonts.googleapis.com/css?family=Oxygen:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <script src="./js/script.js"></script>
+</head>
+
+<body class="breeds">
+    <header>
+        <nav id="header" class="navbar">
+            <div class="container-header">
+                <a href="Main.html">
+                    <img src="./images/WarcraftLogo.png" alt="WarcraftLogo" style="width: 200px; height: 130px;">
+                    <span>WARCRAFT</span>
+                </a>
+            </div>
+            <div>
+                <ul>
+                    <li class="item">
+                        <a class="nav-link" href="BusinessLogic.html">
+                            BL
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a class="nav-link" href="main.html">
+                            Breeds
+                        </a>
+                    </li>
+                    <li class="item">
+                        <a class="nav-link" href="CreateBreed.html">
+                            Create
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+    <div class="main-content-form">
+        <div class="mainTitle">
+            <span>Create your own Breed</span>
+        </div>
+        <form id="fetch-frm" class="row">
+            <div class="col-md-3">
+                <label for="name">Name</label>
+            </div>
+            <div class="col-md-7">
+                <input type="text" name="name" id="form-name">
+            </div>
+            <div class="col-md-3">
+                <label for="typesOfUnity">Types Of Unitys</label>
+            </div>
+            <div class="col-md-7">
+                <input type="number" name="typesOfUnity" id="form-age">
+            </div>
+            <div class="col-md-3">
+                <label for="defaultColor">Default Color</label>
+            </div>
+            <div class="col-md-7">
+                <input type="text" name="defaultColor" id="form-defaultColor">
+            </div>
+            <div class="col-md-3">
+                <label for="reign">Reign</label>
+            </div>
+            <div class="col-md-7">
+                <input type="text" name="reign" id="form-reign">
+            </div>
+            <div class="col-md-3">
+                <label for="armyName">Army Name</label>
+            </div>
+            <div class="col-md-7">
+                <input type="text" name="armyName" id="form-armyName">
+            </div>
+            <div class="col-md-3">
+                <label for="difficulty">Difficulty</label>
+            </div>
+            <div class="col-md-7">
+                <input type="text" name="difficulty" id="form-difficulty">
+            </div>
+            <div class="col-md-3">
+                <label for="rating">Rating</label>
+            </div>
+
+            <div class="col-md-7">
+                <input type="number" name="rating" id="form-rating">
+            </div>
+            <div class="col-md-12">
+                <input type="submit" value="submit" onclick="javascript:location.href='./main.html'">
+            </div>
+        </form>
+
+    </div>
+    <footer>
+        <nav class="navbar-footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <p>"Este contenido esta protegido por sus respectivos autores, cualquier infraccion sera sancionada."
+                        </p>
+                        <span>Author: Daniel Camacho </span>
+                        <a href="mailto:daniel.camacho.s@ucb.edu.bo">daniel.camacho.s@ucb.edu.bo</a></p>
+                        <div>&copy; 2020 Warcraft. TODOS LOS DERECHOS RESERVADOS.</div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </footer>
+</body>
+
+</html>
